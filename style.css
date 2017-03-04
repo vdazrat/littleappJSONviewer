@@ -1,0 +1,8 @@
+  table, td, th {
+    border: 1px solid gray;
+}
+
+.td_head {
+    padding: 2px;
+    font-weight: 700;
+}
